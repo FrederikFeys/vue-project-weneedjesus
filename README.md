@@ -10,4 +10,4 @@ To make there lives easier. So the barman doesn't have to get a calculator and w
 
 **How?**
 
-A database will hold all the items the bar sells and print them to the app, when the barman presses a button the item will be added to the selected user, the database will also keep track of how many items of a specific product are still in stock. We will use vue for the front end part of this project and we will use the slim framework for the database implementation. PHP will be used for the back end.
+A database will hold all the items the bar sells and print them to the app, when the barman presses a button the item will be added to the selected user, the database will also keep track of how many items of a specific product are still in stock. We will use Vue for the front end part of this project and we will use the Slim framework for the database implementation. PHP will be used for the back end.
